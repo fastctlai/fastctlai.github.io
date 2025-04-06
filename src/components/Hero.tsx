@@ -5,7 +5,11 @@ const Hero = () => {
   return (
     <section id="home" className="min-h-screen flex items-center justify-center relative bg-gradient-to-br from-gray-900 via-black to-purple-900 overflow-hidden">
       <div className="absolute inset-0">
-        <div className="absolute inset-0 bg-[url('https://images.unsplash.com/photo-1518837695005-2083093ee35b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2940&q=80')] bg-cover bg-center opacity-10 animate-scale-rotate"></div>
+        <div 
+          className="absolute inset-0 bg-[url('https://images.unsplash.com/photo-1518837695005-2083093ee35b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2940&q=80')] bg-cover bg-center opacity-10 animate-scale-rotate"
+          role="img"
+          aria-label="Abstract city lights background"
+        ></div>
       </div>
       
       <div className="relative z-10 text-center px-4 sm:px-6 lg:px-8">
