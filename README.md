@@ -37,6 +37,19 @@ npm run dev
 npm run build
 ```
 
+## Git Commands
+
+```bash
+# Stage all changes
+git add .
+
+# Commit changes with a descriptive message
+git commit -m "feat: added section"
+
+# Push to dev branch
+git push origin dev
+```
+
 ## Technologies Used
 
 - React
