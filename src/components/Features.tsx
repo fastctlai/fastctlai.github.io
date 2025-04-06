@@ -5,7 +5,7 @@ const Features = () => {
   const features = [
     {
       icon: <Search className="h-8 w-8 text-purple-500" />,
-      title: "Semantic Search",
+      title: "AI-augmented Search",
       description: "Advanced search capabilities that understand context and meaning, not just keywords."
     },
     {

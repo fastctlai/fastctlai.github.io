@@ -9,12 +9,12 @@ const Hero = () => {
       </div>
       
       <div className="relative z-10 text-center px-4 sm:px-6 lg:px-8">
-        <h1 className="text-4xl sm:text-6xl lg:text-7xl font-bold text-white mb-6">
+        <h1 className="text-4xl sm:text-5xl md:text-6xl font-bold text-white mb-6">
           <span className="bg-gradient-to-r from-purple-400 to-pink-600 text-transparent bg-clip-text">Empower</span> your Online Business
-          <br />with Semantic Search
+          <br />with AI-augmented Search
         </h1>
         <p className="text-xl sm:text-2xl text-gray-300 mb-8 max-w-3xl mx-auto">
-          Enable semantic search for your website with one click. Allow customers to find products and services on your site faster. Take back control of your customers and advertising traffic from ChatGPTs
+          Enable AI-augmented search for your website with one click. Allow customers to find products and services on your site faster. Take back control of your customers and advertising traffic from ChatGPT.
         </p>
         <div className="flex flex-col sm:flex-row gap-4 justify-center">
           <a

@@ -29,7 +29,7 @@ const Contact = () => {
             Coming Soon
           </h2>
           <p className="text-gray-400 max-w-2xl mx-auto mb-12">
-            Be the first to know when we launch and get exclusive early access to our semantic search solution
+            Be the first to know when we launch and get exclusive early access to our AI-augmented search solution
           </p>
           
           <div className="flex flex-col sm:flex-row justify-center gap-6 max-w-xl mx-auto">
